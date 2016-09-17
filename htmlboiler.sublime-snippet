@@ -12,17 +12,16 @@
         <meta name="description" content="${2}">
         <meta name="robots" content="index,follow"/> 
         <meta name="keywords" content="">
-
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-        <!--<link rel="stylesheet" href="css/main.css"> -->
-
+        
         <link rel="pingback" href="">
         <link rel="canonical" href="" /> 
         <link rel="author" href="" />
         <link rel="publisher" href="" />
 
-      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+        <link rel="stylesheet" href="css/main.css">
+
         <!-- /.GOOGLE PLUS -->
         <meta itemprop="name" content=""/>
         <meta itemprop="description" content="" />
@@ -53,7 +52,7 @@
         <meta name="twitter:url" content=""/>
 
          <!-- Fav and touch icons -->
-        <link rel="icon" type="image/png" href="http://www.consultoriaprevidenciaria.com/wp-content/themes/henriqueconsultoria/favicon.png" sizes="16x16"> 
+        <link rel="icon" type="image/png" href="" sizes="16x16"> 
         <link rel="icon" href="favicon-16.png" sizes="16x16">
         <link rel="icon" href="favicon-32.png" sizes="32x32">
         <link rel="icon" href="favicon-48.png" sizes="48x48">
