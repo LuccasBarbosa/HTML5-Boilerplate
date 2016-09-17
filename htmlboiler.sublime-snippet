@@ -34,12 +34,12 @@
       
         <!-- /.FACEBOOK -->
         <meta property="og:site_name" content="" />
-        <meta property="og:type" content="article" />
+        <meta property="og:type" content="" />
         <meta property="og:title" content="" />
         <meta property="og:description" content="" />
         <meta property="og:image" content="" />
         <meta property="og:url" content="" />
-        <meta property="og:locale" content="pt_BR" />        
+        <meta property="og:locale" content="" />        
         <meta property="og:app_id" content="" />
         <meta property="article:author" content="" />
         <meta property="article:publisher" content="" />
@@ -62,11 +62,11 @@
         <link rel="icon" href="favicon-64.png" sizes="64x64">
         <link rel="icon" href="favicon-128.png" sizes="128x128">
 
-        <!-- iPad com Retina Display -->
+        <!-- iPad Retina Display -->
         <link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144.png">
-        <!-- iPhone com Retina Display -->
+        <!-- iPhone Retina Display -->
         <link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
-        <!-- Primeira e segunda geração de iPad -->
+        <!-- First and second iPad version -->
         <link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png">
         <!-- Versões antigas de iPhone, iPod Touch e Android 2.2+  -->
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
