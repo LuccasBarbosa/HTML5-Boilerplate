@@ -1,0 +1,93 @@
+<snippet>
+    <content><![CDATA[
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title itemprop='name'>${1}</title>
+
+        <meta name="description" content="${2}">
+        <meta name="robots" content="index,follow"/> 
+        <meta name="keywords" content="">
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+        <!--<link rel="stylesheet" href="css/main.css"> -->
+
+        <link rel="pingback" href="">
+        <link rel="canonical" href="" /> 
+        <link rel="author" href="" />
+        <link rel="publisher" href="" />
+
+      
+        <!-- /.GOOGLE PLUS -->
+        <meta itemprop="name" content=""/>
+        <meta itemprop="description" content="" />
+        <meta itemprop="image" content=""/>
+        <meta itemprop="sameAs" content=""/>
+
+      
+        <!-- /.FACEBOOK -->
+        <meta property="og:site_name" content="" />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="" />
+        <meta property="og:description" content="" />
+        <meta property="og:image" content="" />
+        <meta property="og:url" content="" />
+        <meta property="og:locale" content="pt_BR" />        
+        <meta property="og:app_id" content="" />
+        <meta property="article:author" content="" />
+        <meta property="article:publisher" content="" />
+
+
+        <!-- /.TWITTER -->
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:site" content=""/>
+        <meta name="twitter:domain" content=""/>
+        <meta name="twitter:title" content=""/>
+        <meta name="twitter:description" content=""/>
+        <meta name="twitter:image:src" content=""/>
+        <meta name="twitter:url" content=""/>
+
+         <!-- Fav and touch icons -->
+        <link rel="icon" type="image/png" href="http://www.consultoriaprevidenciaria.com/wp-content/themes/henriqueconsultoria/favicon.png" sizes="16x16"> 
+        <link rel="icon" href="favicon-16.png" sizes="16x16">
+        <link rel="icon" href="favicon-32.png" sizes="32x32">
+        <link rel="icon" href="favicon-48.png" sizes="48x48">
+        <link rel="icon" href="favicon-64.png" sizes="64x64">
+        <link rel="icon" href="favicon-128.png" sizes="128x128">
+
+        <!-- iPad com Retina Display -->
+        <link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144.png">
+        <!-- iPhone com Retina Display -->
+        <link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
+        <!-- Primeira e segunda geração de iPad -->
+        <link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png">
+        <!-- Versões antigas de iPhone, iPod Touch e Android 2.2+  -->
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <p>Hello world!</p>
+
+        <script src="http://code.jquery.com/jquery-1.12.4.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+
+        <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+        <script>
+            window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+            ga('create','UA-XXXXX-Y','auto');ga('send','pageview')
+        </script>
+        <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+    </body>
+</html>
+]]></content>
+    <tabTrigger>html5</tabTrigger>
+    <scope>text.html</scope>
+</snippet>
