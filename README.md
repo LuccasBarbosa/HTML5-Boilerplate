@@ -10,7 +10,7 @@ Copy the files to your Packages directory.
 
 ### Option 2: Package Control
 
-In the command pallette (Cmd-Shift+P on Mac) type 'Install' then press enter to see a list of packages. Search for 'HTML Boilerplate' then press enter to install.
+In the command pallette (Cmd-Shift+P on Mac) type 'Install' then press enter to see a list of packages. Search for 'HTML5-Boilerplate' then press enter to install.
 
 ## Usage
 
